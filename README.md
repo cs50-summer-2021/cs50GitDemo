@@ -45,4 +45,4 @@ git push --set-upstream origin <branch_name>
 
 Go to the _pull request_ tab in the Github repo, and through that, merge your branch with `main`.
 
-### 6. Check out your addition to the website!
+### 6. Check out your addition to the website
