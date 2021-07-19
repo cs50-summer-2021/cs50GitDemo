@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<html>
+    <head>
+        <title>CS50 Git Demo</title>
+    </head>
+    <body>
+        <h1>Scroll to find your image</h1>
+        <ul style="list-style-type:none;">
+            {% for image in site.pages %}
+                <li style="list-style-type:none;">
+                    <img src={{site.baseurl}}/assets/images/{{image.src}} alt={{image.title}}/>                    
+                </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
