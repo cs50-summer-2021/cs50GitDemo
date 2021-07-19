@@ -1,6 +1,6 @@
 ## Welcome to the CS50 Git Demo!
 
-Please follow the instructions below to implement your changes to a sample website located [here](https://theairdemon.github.io/cs50GitDemo/)
+Please follow the instructions below to implement your changes to a sample website located [here](https://cs50-summer-2021.github.io/cs50GitDemo/)
 
 ### 1. Clone this repository
 
