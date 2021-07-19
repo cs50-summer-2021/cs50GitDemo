@@ -5,7 +5,7 @@ Please follow the instructions below to implement your changes to a sample websi
 ### 1. Clone this repository
 
 ```
-git clone https://github.com/theairdemon/cs50GitDemo.git
+git clone https://github.com/cs50-summer-2021/cs50GitDemo.git
 ```
 
 ### 2. Checkout a new branch
